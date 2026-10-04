@@ -12,6 +12,16 @@
 Java/
 │
 ├── Basics/
+├──    |
+|      ├── HelloWorld.java
+|      └── Comments.java
+|
+├── Variables/
+├──    |
+|      ├── Variables.java
+|      ├── MultiVariables.java
+|      ├── Reassignment.java
+|      ├── 
 ├── .gitignore
 └── README.md
 ```
