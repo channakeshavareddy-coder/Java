@@ -15,10 +15,10 @@ Java/
 ├── .gitignore
 └── README.md
 ```
-🎯 Purpose
-To strengthen my Java programming skills, problem-solving ability, logical thinking, and coding skills through continuous hands-on practice.
-
-**📝 My Approach**
+**🎯 Purpose**  
+To strengthen my Java programming skills, problem-solving ability, logical thinking, and coding skills through continuous hands-on practice.  
+  
+**📝 My Approach**  
 For every practical, I focus on:
 1. Understanding the requirement
 2. Identifying the required concept
@@ -28,20 +28,21 @@ For every practical, I focus on:
 6. Understanding what I learned
 7. Continuously improving through practice
 
-**📊 Progress**
-This repository will be continuously updated as I practice more Java programs and learn new concepts.
-
-**⭐ About This Repository**
-The programs in this repository are written and maintained by me based on my own learning, practice, and problem-solving experience.
-The goal is not only to write programs but also to understand concepts, learn from mistakes, and continuously improve my Java skills.
-
-**🤝 Contributions**
-Suggestions, corrections, and improvements are always welcome.
-
-If you find any mistakes or have ideas to improve the repository, feel free to open an issue or submit a pull request.
-
-**⭐ Support**
-If you find this repository helpful, consider giving it a ⭐.
-It motivates me to continue learning, practicing, and improving my programming skills.
-
-Thank you for visiting my repository! Happy Coding! 💻☕
+**📊 Progress**  
+This repository will be continuously updated as I practice more Java programs and learn new concepts.  
+  
+**⭐ About This Repository**  
+The programs in this repository are written and maintained by me based on my own learning, practice, and problem-solving experience.  
+The goal is not only to write programs but also to understand concepts, learn from mistakes, and continuously improve my Java skills.  
+  
+**🤝 Contributions**  
+Suggestions, corrections, and improvements are always welcome.  
+  
+If you find any mistakes or have ideas to improve the repository, feel free to open an issue or submit a pull request.  
+  
+**⭐ Support**  
+If you find this repository helpful, consider giving it a ⭐.  
+It motivates me to continue learning, practicing, and improving my programming skills.  
+  
+Thank you for visiting my repository! Happy Coding! 💻☕  
+  
