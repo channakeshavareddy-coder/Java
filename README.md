@@ -12,16 +12,26 @@
 Java/
 │
 ├── Basics/
-├──    |
+|      |
 |      ├── HelloWorld.java
 |      └── Comments.java
 |
 ├── Variables/
-├──    |
+|      |
 |      ├── Variables.java
 |      ├── MultiVariables.java
 |      ├── Reassignment.java
-|      ├── 
+|      └── VariableCalculation.java
+|
+├── DataTypes/
+|      ├── StudentInfo.java
+|      └── EmployeeDetails.java    
+|
+├── Casting/
+|      ├── WideningCasting.java
+|      └── NarrowingCasting.java
+|
+├── Operators/
 ├── .gitignore
 └── README.md
 ```
