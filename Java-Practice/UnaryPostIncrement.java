@@ -12,7 +12,7 @@
  -
  - Concept: Unary increment operator ++
  */
-public class UnaryPreIncrement{
+public class UnaryPostIncrement{
     public static void main(String[]args){
         int Raju = 5; // Raju completed 5 tasks.
         Raju ++;
