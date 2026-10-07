@@ -32,6 +32,11 @@ Java/
 |      └── NarrowingCasting.java
 |
 ├── Operators/
+|      ├── Arithmeticoperators.java
+|      ├── AssignmentOperators.java
+|      ├── RelationalOperators.java
+|      ├── LogicalAnd.java
+|      ├── LogicalOr.java
 ├── .gitignore
 └── README.md
 ```
