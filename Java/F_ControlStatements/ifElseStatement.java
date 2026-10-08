@@ -15,7 +15,7 @@
  -
  - Concept: if-else statement
  */
-package Java_Practice.JavaPractice.F_ControlStatements;
+package Java.F_ControlStatements;
 public class ifElseStatement{
     public static void main(String[]args){
         String employeeName = "Channakeshavareddy G N";
